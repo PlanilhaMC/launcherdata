@@ -1,3 +1,3 @@
-# Modpacks
+# Launcher Data
 
-This test repo is hosting Minecraft modpacks based on [SKCraft Launcher](https://github.com/SKCraft/Launcher) using GitHub Pages, please ignore.
+This repository is hosting files based on [SKCraft Launcher](https://github.com/SKCraft/Launcher) using GitHub Pages, please ignore.
