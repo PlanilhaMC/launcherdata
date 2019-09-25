@@ -2,10 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "MCHomelands-PTB",
-      "name" : "homelands-snapshot",
-      "version" : "2019-09-22-18-46-41",
-      "location" : "homelands-snapshot.json",
+      "title" : null,
+      "name" : "homelands-ptb",
+      "version" : "2019-09-25-10-21-08",
+      "location" : "homelands-ptb.json",
       "priority" : 0
     }
   ]
