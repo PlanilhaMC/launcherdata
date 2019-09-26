@@ -2,10 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : null,
-      "name" : "homelands-ptb",
-      "version" : "2019-09-25-10-21-08",
-      "location" : "homelands-ptb.json",
+      "title" : "MCHomelands (Alpha)",
+      "name" : "homelands-alpha",
+      "version" : "2019-09-25-22-12-11",
+      "location" : "homelands-alpha.json",
       "priority" : 0
     }
   ]
